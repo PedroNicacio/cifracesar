@@ -1,4 +1,4 @@
-
+/* Eu tive dificuldades com o Java, eu iria pedir ajuda para o Lucas (Instrutor/Facilitador), mas acaba que eu só poderia ter contato com ele terça feira e atrasaria o projeto.*/
   let encryptBtn = document.getElementById('encrypt-btn');
         let eInput = document.getElementById('encryptedInput-1')
         let pInput = document.getElementById('plainInput')
